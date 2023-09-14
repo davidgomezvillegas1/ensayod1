@@ -1,3 +1,6 @@
+Vamos a hacer el proceso completo, esto es, hacer un add, un commit y un push. 
+
+
 Cambio para ensayar push desde otra terminal (ConEmu)
 
 Ahora lo estoy editando desde internet a ver si lo puedo bajar con un pull
